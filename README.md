@@ -4,7 +4,7 @@
 
 ![Elenilson GitHub stats](https://github-readme-stats.vercel.app/api?username=elenilsonxd&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenilsonxd&layout=compact)](https://github.com/elenilsonxd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenilsonxd)](https://github.com/anuraghazra/github-readme-stats)
 
 ### tecnologias que uso no dia 
 <div style="dysplay: inline_block"><br/>
@@ -14,4 +14,4 @@
 <img aling= "center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e games🕹️, estudando Dev full stack na Labenu👨‍🎓 . Dev. em construção.🤓🚀
+Apaixonado por tecnologia e games🕹️, estudando Dev full stack na Labenu👨‍🎓 . Dev. em construção. 🤓🚀
